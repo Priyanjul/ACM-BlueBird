@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Btn value when clicked-->
+
+    <!--Btn value when focused-->
+
+    <!--Btn value when normal-->
+
+    <item android:state_pressed="true" android:drawable="@drawable/vision_clk" />
+    <item android:state_pressed="true" android:drawable="@drawable/vision_clk" />
+    <item android:drawable="@drawable/vision" />
+</selector>
